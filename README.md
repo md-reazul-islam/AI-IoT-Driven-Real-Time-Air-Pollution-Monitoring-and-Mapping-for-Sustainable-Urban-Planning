@@ -1,5 +1,22 @@
 Title: AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning.
-Abstract: 
+Abstract: Air pollution poses a critical threat to public health,
+environmental quality, and urban sustainability, driven by rapid
+urbanization, industrial activity, vehicular emissions, and inefficient
+waste management. Tackling this challenge demands robust mon-
+itoring, predictive modeling, pollution mapping, and effective man-
+agement strategies. This study presents an AI-IoT Driven Real-Time
+Air Pollution Monitoring and Mapping System for sustainable urban
+planning, integrating IoT technology and machine learning for real-
+time monitoring of key air quality parameters, including PM2.5, CO,
+NO2, SO2, O3, and compute the Air Quality Index (AQI), a standardized scale ranging from Good (0–50) to Hazardous
+(301–500). We evaluate multiple machine learning algorithms, namely Random Forest, XGBoost, CatBoost, Gradient
+Boosting, and SVM, alongside a proposed stacked ensemble model, to to support air pollution monitoring, predict pollution
+trends, identify high-risk areas, and generate actionable mitigation insights. The stacked ensemble achieves the highest
+performance with 98.73% (±0.21%) cross-validation accuracy. The system further delivers real-time alerts to residents and
+authorities, enabling avoidance of polluted zones and timely interventions. In addition, adaptive route optimization and
+IoT-enabled waste monitoring ensure timely waste collection, reducing emissions from unmanaged waste and supporting
+urban planning. Together, these capabilities form an integrated, data-driven framework for improving urban air quality and
+enabling evidence-based smart city planning.
 ![image alt](https://github.com/UA-CVML/AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning/blob/main/abstract%20(1).png)
 Air pollution threatens public health and urban sustainability due to urbanization, industry, traffic, and poor waste management. This study presents an AI-IoT real-time monitoring and mapping system using ML models and a stacked ensemble predict pollution, compute AQI, issue alerts, optimize routes, and support smart urban planning.
 
