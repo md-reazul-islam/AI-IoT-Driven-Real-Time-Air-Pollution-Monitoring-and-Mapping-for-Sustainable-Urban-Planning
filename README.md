@@ -71,6 +71,7 @@ The study evaluates several supervised learning algorithms:
  Random Forest, XGBoost, CatBoost, Gradient Boosting, Support Vector Machine (SVM)
 
 A stacked ensemble model is proposed to combine the strengths of individual models.
+![image alt](https://github.com/UA-CVML/AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning/blob/main/Stack.jpg)
 
 **Model Evaluation**
 
