@@ -78,53 +78,53 @@ A stacked ensemble model is proposed to combine the strengths of individual mode
 
 Models are evaluated using cross-validation techniques. The stacked ensemble achieved the best performance with 98.73% (±0.21%) accuracy.
 
-Key Features of the System
+**Key Features of the System**
 
-Real-Time Monitoring:
+**Real-Time Monitoring:**
 Continuous monitoring of major air pollutants using IoT sensors.
 
-Pollution Prediction:
+**Pollution Prediction:**
 ML models forecast pollution trends to support proactive planning.
 
-Pollution Mapping:
+**Pollution Mapping:**
 Geospatial visualization identifies highly polluted areas and recommend safer routes .
 
-AQI Calculation:
+**AQI Calculation:**
 The system calculates AQI values ranging from Good (0–50) to Hazardous (301–500).
 
-Smart Alerts:
+**Smart Alerts:**
 Automatic notifications are sent to citizens and authorities when pollution exceeds safe limits.
 
-Route Optimization:
+**Route Optimization:**
 The system suggests safer alternative routes based on pollution levels.
 
-Waste Monitoring Integration:
+**Waste Monitoring Integration:**
 IoT-based waste monitoring supports timely waste collection, reducing pollution from unmanaged waste.
 
-Tools and Technologies
+**Tools and Technologies**
 
-Hardware:
+**Hardware:**
 IoT air quality sensors, Microcontrollers (ESP32/Arduino)
 
-Software:
+**Software:**
 
 Python
 Scikit-learn
 XGBoost / CatBoost libraries
 Cloud platform (Firebase/AWS/ThingsBoard)
 
-Frontend:
+**Frontend:**
 
 Mobile application (Flutter/Android)
 Web dashboard (HTML, CSS, JavaScript)
 
-Database:
+**Database:**
 
 MySQL/Firebase
 
-Expected Outcomes
+**Expected Outcomes**
 
-The proposed system is expected to:
+**The proposed system is expected to:**
 
 Improve urban air quality monitoring efficiency
 Provide accurate pollution prediction
@@ -132,7 +132,7 @@ Enable data-driven environmental policies
 Reduce exposure to harmful pollution
 Support smart and sustainable city development
 
-Conclusion
+**Conclusion**
 
 This project presents an integrated AI-IoT framework for real-time air pollution monitoring, prediction, and management. By combining environmental sensing, machine learning intelligence, and smart alert mechanisms, the system provides a practical solution for improving urban air quality and enabling evidence-based sustainable planning.
 
