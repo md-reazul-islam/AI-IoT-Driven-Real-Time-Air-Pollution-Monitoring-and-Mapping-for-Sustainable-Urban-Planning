@@ -105,27 +105,6 @@ The system suggests safer alternative routes based on pollution levels.
 **Waste Monitoring Integration:**
 IoT-based waste monitoring supports timely waste collection, reducing pollution from unmanaged waste.
 
-**Tools and Technologies**
-
-**Hardware:**
-IoT air quality sensors, Microcontrollers (ESP32/Arduino)
-
-**Software:**
-
-Python
-Scikit-learn
-XGBoost / CatBoost libraries
-Cloud platform (Firebase/AWS/ThingsBoard)
-
-**Frontend:**
-
-Mobile application (Flutter/Android)
-Web dashboard (HTML, CSS, JavaScript)
-
-**Database:**
-
-MySQL/Firebase
-
 **Expected Outcomes**
 
 **The proposed system is expected to:**
@@ -138,6 +117,7 @@ Support smart and sustainable city development
 
 **Conclusion**
 
-This project presents an integrated AI-IoT framework for real-time air pollution monitoring, prediction, and management. By combining environmental sensing, machine learning intelligence, and smart alert mechanisms, the system provides a practical solution for improving urban air quality and enabling evidence-based sustainable planning.
+This study proposes a AI-Driven Pollution Prediction and Mapping System for Sustainable Urban Planning that inte-grates IoT sensing with machine learning to address urban air pollution. Distributed sensors continuously measure P M2.5,CO, N O2, SO2, O3, humidity, and wind parameters, trans-mitting data via Wi-Fi, LoRa, or cellular networks for real-time analysis, pollution mapping, and user alerts. The system also incorporates IoT-based waste monitoring to optimize col- lection routes and reduce emissions. For prediction, XGBoost, CatBoost, Gradient Boosting, SVM, and a stacked ensemble were evaluated. The proposed ensemble, combining boosting best performance (98.83% accuracy, 98.9% precision, 98.8% recall, 98.8% F1-score). Its novelty lies in unifying sensing, analytics, mapping, and adaptive waste management. While results are strong, further work is needed on sensor calibration, generalization, privacy, and large-scale deployment.
+
 
 
